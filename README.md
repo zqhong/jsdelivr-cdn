@@ -14,7 +14,7 @@ server {
     autoindex   off;
 
     location /public {
-        rewrite ^/(.*) https://cdn.jsdelivr.net/gh/zqhong/grafana-cdn@7.0.6/$1 permanent;
+        rewrite ^/(.*) https://cdn.jsdelivr.net/gh/zqhong/jsdelivr-cdn@7.0.6/$1 permanent;
     }
 
     location / {
@@ -28,4 +28,4 @@ server {
 
 ## jsdelivr 链接说明：
 
-参考[jsdelivr Features](https://www.jsdelivr.com/features)
+参考 [jsdelivr Features](https://www.jsdelivr.com/features)
