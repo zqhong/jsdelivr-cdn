@@ -1,0 +1,6 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{Pt6d:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return l}));e("q1tI");var a=e("vF1F"),c=e("xzGB"),s=e("ZGyg"),i=e("nKUr");const o={id:"not-found",text:"The plugin catalog is not enabled",icon:"exclamation-triangle",url:"not-found"},r={node:o,main:o};function l(){return Object(i.jsx)(s.a,{navModel:r,children:Object(i.jsx)(s.a.Contents,{children:Object(i.jsxs)(c.a,{children:["To enable installing plugins via catalog, please refer to the"," ",Object(i.jsx)("a",{className:a.css`
+              text-decoration: underline;
+            `,href:"https://grafana.com/docs/grafana/latest/plugins/catalog",children:"Plugin Catalog"})," ","instructions"]})})})}},xzGB:function(n,t,e){"use strict";e.d(t,"a",(function(){return i}));e("q1tI");var a=e("vF1F"),c=e("kDLi"),s=e("nKUr");const i=({children:n})=>{const t=Object(c.useStyles2)(o);return Object(s.jsx)("div",{className:"page-container",children:Object(s.jsx)("div",{className:t,children:n})})},o=n=>a.css`
+    margin-bottom: ${n.spacing(3)};
+  `}}]);
+//# sourceMappingURL=PluginAdminNotEnabled.62c612232a976d8836f5.js.map
