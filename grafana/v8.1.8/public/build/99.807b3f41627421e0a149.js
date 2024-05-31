@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[99],{"cD+E":function(e,r,t){"use strict";t.r(r);var n=t("Obii");class s extends n.DataSourceApi{constructor(e){super(e)}getCollapsedText(e){return"Dashboard Reference: "+e.panelId}query(e){return Promise.reject("This should not be called directly")}testDatasource(){return Promise.resolve({})}}t.d(r,"plugin",(function(){return o}));const o=new n.DataSourcePlugin(s)}}]);
+//# sourceMappingURL=99.807b3f41627421e0a149.js.map
